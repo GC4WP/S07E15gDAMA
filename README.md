@@ -2,24 +2,9 @@
 ~ [Coursework of GC: S07E15](https://paper.dropbox.com/doc/print/MfSHGmyO8Na8cxI0ioIik?print=true)
 
 - 以小组为单位完成作业，（自由组合，每组人数不超过5人，任何同组过的两个人不得再同组）。
-    + 026-上海-安心竹 
-        * 微信: ysawybb000
-        * https://github.com/anxinzhu 
-    + 029-香港-宋偲瑄
-        * 微信: Song
-        * https://github.com/BrookSongBrookSong 
-    + 253-上海-申小七
-        * 微信: ububub
-        * https://github.com/expressseven 
-    + 193—天津—海岸线
-        * 微信: loveinoia
-        * https://github.com/sallysong007 
-    + 057-珠海-Zoom,Quiet
-        * 微信: ZoomQuiet
-        * https://github.com/ZoomQuiet 
-    + ... `可见在不同平台上使用不同注册名是多么消耗无谓心力的事儿哪.`
 - 座标维度最靠北的组员为小组长（小组编号以小组长的学号为准，前面加G，例如：108号同学来自漠河，那么该小组编号就是G108）
     + `天津` 纬度最高,所以是组长 ;-)
+    + 最迟 `3.14` 提交作业
 - 每个组员都写一篇短文（原创、改编、翻译即可），500来字，全体组员利用和合技进行批改，形成5篇文章。
 - 用乔治·奥威尔4+2个问题（G4+2）进行检查：
 
@@ -69,11 +54,29 @@ G+2(和合点):
 
 
 ## 本次和合流程
+当前小组:
+
++ 026-上海-安心竹 
+    * 微信: ysawybb000
+    * https://github.com/anxinzhu 
++ 029-香港-宋偲瑄
+    * 微信: Song
+    * https://github.com/BrookSongBrookSong 
++ 253-上海-申小七
+    * 微信: ububub
+    * https://github.com/expressseven 
++ 193—天津—海岸线
+    * 微信: loveinoia
+    * https://github.com/sallysong007 
++ 057-珠海-Zoom,Quiet
+    * 微信: ZoomQuiet
+    * https://github.com/ZoomQuiet 
+
+... `可见在不同平台上使用不同注册名是多么消耗无谓心力的事儿哪.`
+
+
 因为 DAMA 要出差难以维系每天的和合会议,所以,建议:
 
-- @026-上海-安心竹 + @193—天津—海岸线 
-- @253-上海-申小七 + @029-香港-宋偲瑄
-- 结为两组,相互和合1000字就好
 - 俺独立游动..嗯哼
 - 到周6/7,共同混杂嗯哼
 
